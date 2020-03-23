@@ -8,6 +8,10 @@ identifiant github: olivier.barais@gmail.com
 identifiant gitlab: olivier.barais@gmail.com
 
 Le langage de programmation de la partie backend est de votre ressort, (Java, Kotlin, Scala, Rust, Go, python ou tout autre). Si vous mettez en oeuvre un frontend, même chose framwork de développement libre. 
+N'oubliez pas d'utilisation un gestionnaire de dépendance (maven, pip, npm pour faciliter l'installation). 
+Vous pouvez évidemment utiliser docker et docker compose pour me faciliter la vie et le déploiement de votre projet. Le rendu des deux versions de votre projet, avec la contre mesure ou sans la contremesure peut être fait dans deux branches différentes de votre repot. 
+
+
 
   * [Exercice 1](#exercice-1)
   * [Exercice 2](#exercice-2)
@@ -19,9 +23,9 @@ Le langage de programmation de la partie backend est de votre ressort, (Java, Ko
 
 ## Exercice 1
 
-Pour ce TP le premier exercice est d'analyser le code source fourni dans le pdf joint. 
+Pour ce TP le premier exercice est d'analyser le code source fourni dans le [pdf joint](./codecluedo_challenge_FINAL.pdf). 
 
-Préparer dans un fichier reponsecodecluedo.md à la racine de votre repository un critique de cette mise en oeuvre au regard de la sécurité. 
+Préparer dans un fichier **reponsecodecluedo.md** à la racine de votre repository, une critique de cette mise en oeuvre au regard de la sécurité. 
 
 ## Exercice 2 
 
@@ -31,7 +35,7 @@ Je vous rappelle les [10 problèmes classiques](https://owasp.org/www-project-to
 
 ### Exemple 1
 
-- Vous pouvez proposer une API Web dont le service interagi avec une base de donnée senseible aux injections SQL
+- Vous pouvez proposer une API Web dont le service interagi avec une base de donnée. Vous implanterez ce  service en le laissant sensible aux injections SQL.
 - contre mesure possible, *sanitisation* des entrées ou utilisation d'un framework de mapping objet relationnel
 
 ### Exemple 2
