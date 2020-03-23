@@ -4,7 +4,7 @@
 
 Le projet sera rendu sur un github ou un gitlab privé, voici mes identifiants pour me partager vos réalisation. Projet à réaliser par 1, 2 ou 3. 
 
-identifiant github: olivier.barais@gmail.com
+identifiant github: olivier.barais@gmail.com ou barais
 identifiant gitlab: olivier.barais@gmail.com
 
 Le langage de programmation de la partie backend est de votre ressort, (Java, Kotlin, Scala, Rust, Go, python ou tout autre). Si vous mettez en oeuvre un frontend, même chose framwork de développement libre. 
@@ -56,13 +56,17 @@ Je vous rappelle les [10 problèmes classiques](https://owasp.org/www-project-to
 
 - Vous pouvez mettre en place une petite application Web dont l'authentification a été mis en oeuvre manuellement avec faiblesse pour la mise en place de règles sur l'authentification.
 
-- contre mesure possible, utilisation d'openid connect, déploiement de keycloak pour l'authentification.
+- contre mesure possible, utilisation d'openid connect, déploiement de [keycloak](https://www.keycloak.org/) pour l'authentification.
 
 ### Exemple 5
 
-- Vous pouvez mettre en place une petite application Web simple dont tout l'aspect monitoring n'est pas globalisé
-- contre mesure possible, mise en place d'une stack ELK et remonté des informations de logs dans un environnement unifié
+- Vous pouvez mettre en place une petite application Web simple dont tout l'aspect monitoring n'est pas globalisé.
+- contre mesure possible, mise en place d'une stack ELK et remonté des informations de logs dans un environnement unifié.
 
 ### Exemple 6
 
 - Tout autre projet qui vous tient à coeur afin d'étudier par vous même une faille de sécurité lié à la programmation, au déploiement, à la surveillance de services Web. 
+
+
+
+Soyez imaginatif et ambitieux. Je mettrai l'ensemble des solutions proposées accessibles à tout le monde afin de constituer une première base d'exemple. 
