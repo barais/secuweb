@@ -24,7 +24,7 @@ Vous pouvez évidemment utiliser [docker](https://docs.docker.com/) et [docker c
 
 ## Exercice 1
 
-Pour ce TP le premier exercice est d'analyser le code source fourni dans le [pdf joint](./raw/master/codecluedo_challenge_FINAL.pdf). 
+Pour ce TP le premier exercice est d'analyser le code source fourni dans le [pdf joint](../../raw/master/codecluedo_challenge_FINAL.pdf). 
 
 Préparer dans un fichier **reponsecodecluedo.md** à la racine de votre repository, une critique de cette mise en oeuvre au regard de la sécurité. 
 
